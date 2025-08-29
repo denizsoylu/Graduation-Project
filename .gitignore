@@ -16,6 +16,9 @@ venv/
 # Diğer gereksiz dosyalar
 .DS_Store
 
-
+# Büyük veri ve görüntü dosyaları
 dataset/
 *.csv
+*.png
+*.jpg
+*.jpeg
