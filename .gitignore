@@ -15,3 +15,7 @@ venv/
 
 # Diğer gereksiz dosyalar
 .DS_Store
+
+
+dataset/
+*.csv
