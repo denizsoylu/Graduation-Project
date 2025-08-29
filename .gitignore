@@ -22,3 +22,10 @@ dataset/
 *.png
 *.jpg
 *.jpeg
+
+data/
+*.csv
+
+
+Deneme2/
+*.csv
