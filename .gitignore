@@ -1,0 +1,17 @@
+# Python önbellek ve derlenmiş dosyalar
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sanal ortam
+env/
+venv/
+*.env
+
+# PyCharm dosyaları
+.idea/
+*.iml
+
+# Diğer gereksiz dosyalar
+.DS_Store
