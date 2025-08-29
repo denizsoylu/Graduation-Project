@@ -1,9 +1,3 @@
-# Python önbellek ve derlenmiş dosyalar
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
 # Sanal ortam
 env/
 venv/
@@ -18,14 +12,9 @@ venv/
 
 # Büyük veri ve görüntü dosyaları
 dataset/
+data/
+Deneme2/
 *.csv
 *.png
 *.jpg
 *.jpeg
-
-data/
-*.csv
-
-
-Deneme2/
-*.csv
