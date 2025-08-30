@@ -1,16 +1,3 @@
-# Sanal ortam
-env/
-venv/
-*.env
-
-# PyCharm dosyaları
-.idea/
-*.iml
-
-# Diğer gereksiz dosyalar
-.DS_Store
-
-# Büyük veri ve görüntü dosyaları
 dataset/
 data/
 Deneme2/
